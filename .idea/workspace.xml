@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Chainsmoker_ProjectSTD" targetName="Chainsmoker_ProjectSTD" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88b54ed0-dac3-4ea7-b06d-6f57b61a0d7a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-174657762">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cmake" value="2" />
+          <entry key="cpp" value="44" />
+          <entry key="h" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="7" />
+          <entry key="ObjectiveC" value="119" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="4512" />
+          <entry key="h" value="675" />
+          <entry key="txt" value="287" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="ObjectiveC" value="7507" />
+          <entry key="PLAIN_TEXT" value="533" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1513">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/header.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+              <folding>
+                <element signature="e#129#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/header.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/menu.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="24" column="28" selection-start-line="23" selection-start-column="6" selection-end-line="24" selection-end-column="28" />
+              <folding>
+                <element signature="e#41#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/netizen.h" />
+        <option value="$PROJECT_DIR$/referensi/header.h" />
+        <option value="$PROJECT_DIR$/main/netizen.cpp" />
+        <option value="$PROJECT_DIR$/main/welcome.cpp" />
+        <option value="$PROJECT_DIR$/main/ui_main.h" />
+        <option value="$PROJECT_DIR$/main/welcome.h" />
+        <option value="$PROJECT_DIR$/main/ui_main.cpp" />
+        <option value="$PROJECT_DIR$/main/conio.h" />
+        <option value="$PROJECT_DIR$/new_ver/main_new.cpp" />
+        <option value="$PROJECT_DIR$/main/menu.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main/header.h" />
+        <option value="$PROJECT_DIR$/main/header.cpp" />
+        <option value="$PROJECT_DIR$/main/main.cpp" />
+        <option value="$PROJECT_DIR$/main/menu.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Chainsmoker_ProjectSTD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chainsmoker_DataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chainsmoker_ProjectSTD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chainsmoker_DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="printInfo&#9;null&#9;null&#10;sort&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/screenshoot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshoot" />
+      <recent name="$PROJECT_DIR$/referensi" />
+      <recent name="$PROJECT_DIR$/reference" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Chainsmoker_ProjectSTD" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chainsmoker_ProjectSTD" RUN_TARGET_NAME="Chainsmoker_ProjectSTD" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b54ed0-dac3-4ea7-b06d-6f57b61a0d7a" name="Default Changelist" comment="" />
+      <created>1543060592568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543060592568</updated>
+      <workItem from="1543060598997" duration="8669000" />
+      <workItem from="1543129586637" duration="2106000" />
+      <workItem from="1543191300025" duration="7017000" />
+      <workItem from="1543213300112" duration="8705000" />
+      <workItem from="1543511001981" duration="40000" />
+      <workItem from="1543511113674" duration="13620000" />
+      <workItem from="1543718881187" duration="15845000" />
+      <workItem from="1544037001496" duration="1064000" />
+      <workItem from="1544109284598" duration="1165000" />
+      <workItem from="1544230306326" duration="1957000" />
+      <workItem from="1544242541014" duration="6815000" />
+      <workItem from="1544272291498" duration="2176000" />
+      <workItem from="1544274833702" duration="3753000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Menu (Kosongan)">
+      <created>1543130735279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543130735280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Delete Reference">
+      <created>1543199929183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543199929183</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixing Header &amp; Rename Netizen to Header file">
+      <created>1543204435331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543204435331</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finishing Touch">
+      <created>1543211016112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543211016112</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete file cbp">
+      <created>1543213391748</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1543213391748</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor var in main">
+      <created>1543224303076</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543224303076</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Improving Menu &amp; Added ASCII ERROR">
+      <created>1543277585531</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543277585531</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Kasih Komen Buat gampang dipelajarin">
+      <created>1543288050679</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543288050679</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added screenshot">
+      <created>1543374746660</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543374746660</updated>
+    </task>
+    <task id="LOCAL-00010" summary="reflactor name ui --&gt; menu">
+      <created>1543569010595</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543569010596</updated>
+    </task>
+    <task id="LOCAL-00011" summary="buat kalimat bisa lebih dari 1">
+      <created>1543657473247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1543657473247</updated>
+    </task>
+    <task id="LOCAL-00012" summary="improving menu">
+      <created>1543754109315</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1543754109315</updated>
+    </task>
+    <task id="LOCAL-00013" summary="delete menu &quot;&gt; 3&quot;">
+      <created>1543757256822</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1543757256822</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fusion Menu">
+      <created>1543760657038</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543760657038</updated>
+    </task>
+    <task id="LOCAL-00015" summary="time up final task data structure">
+      <created>1543770116032</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1543770116032</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change last --&gt; first">
+      <created>1544259281024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1544259281025</updated>
+    </task>
+    <task id="LOCAL-00017" summary="rollback changes">
+      <created>1544273555516</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1544273555516</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix relasi, unused getline &amp; screenshot">
+      <created>1544278065865</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1544278065865</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72932000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="734" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19709209" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.67601246" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3224299" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32876712" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.3084112" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Menu (Kosongan)" />
+    <MESSAGE value="Delete Reference" />
+    <MESSAGE value="Fixing Header &amp; Rename Netizen to Header file" />
+    <MESSAGE value="Finishing Touch" />
+    <MESSAGE value="delete file cbp" />
+    <MESSAGE value="refactor var in main" />
+    <MESSAGE value="Improving Menu &amp; Added ASCII ERROR" />
+    <MESSAGE value="Kasih Komen Buat gampang dipelajarin" />
+    <MESSAGE value="added screenshot" />
+    <MESSAGE value="reflactor name ui --&gt; menu" />
+    <MESSAGE value="buat kalimat bisa lebih dari 1" />
+    <MESSAGE value="improving menu" />
+    <MESSAGE value="delete menu &quot;&gt; 3&quot;" />
+    <MESSAGE value="Fusion Menu" />
+    <MESSAGE value="time up final task data structure" />
+    <MESSAGE value="change last --&gt; first" />
+    <MESSAGE value="rollback changes" />
+    <MESSAGE value="fix relasi, unused getline &amp; screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix relasi, unused getline &amp; screenshot" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.12/Modules/CMakeTestCCompiler.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="49" column="54" lean-forward="true" selection-start-line="49" selection-start-column="54" selection-end-line="49" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reference/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/reference/userInterface.h" />
+    <entry file="file://$PROJECT_DIR$/reference/userInterface.cpp" />
+    <entry file="file://$PROJECT_DIR$/reference/header.h" />
+    <entry file="file://$PROJECT_DIR$/reference/header.cpp" />
+    <entry file="file://$PROJECT_DIR$/reference/clrscr.cpp" />
+    <entry file="file://$PROJECT_DIR$/reference/clrscr.h" />
+    <entry file="file://$PROJECT_DIR$/referensi/header2.cpp" />
+    <entry file="file://$PROJECT_DIR$/referensi/clrscr.h" />
+    <entry file="file://$PROJECT_DIR$/referensi/clrscr.cpp" />
+    <entry file="file://$PROJECT_DIR$/main/clrscr.cpp" />
+    <entry file="file://$PROJECT_DIR$/main/clrscr.h" />
+    <entry file="file://$PROJECT_DIR$/referensi/header2.h" />
+    <entry file="file://$PROJECT_DIR$/referensi/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/referensi/userInterface.cpp" />
+    <entry file="file://$PROJECT_DIR$/referensi/userInterface.h" />
+    <entry file="file://$PROJECT_DIR$/Chainsmoker_ProjectSTD.cbp" />
+    <entry file="file://$PROJECT_DIR$/referensi/Chainsmoker_ProjectSTD.cbp" />
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/string">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1525" column="43" selection-start-line="1525" selection-start-column="43" selection-end-line="1525" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/conio.h" />
+    <entry file="file://$PROJECT_DIR$/main/welcome.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/printf.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main_new.cpp" />
+    <entry file="file://$PROJECT_DIR$/referensi/header.cpp" />
+    <entry file="file://$PROJECT_DIR$/referensi/header.h" />
+    <entry file="file://$PROJECT_DIR$/main/welcome.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="78" column="40" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/menu.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding>
+            <element signature="e#129#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/header.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1513">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/menu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="28" selection-start-line="23" selection-start-column="6" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="e#41#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

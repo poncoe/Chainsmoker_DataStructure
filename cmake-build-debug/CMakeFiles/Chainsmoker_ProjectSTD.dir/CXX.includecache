@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/poncoe/CLionProjects/Chainsmoker_DataStructure/main/menu.cpp
+iostream
+-
+menu.h
+/Users/poncoe/CLionProjects/Chainsmoker_DataStructure/main/menu.h
+stdlib.h
+-
+
+/Users/poncoe/CLionProjects/Chainsmoker_DataStructure/main/menu.h
+
